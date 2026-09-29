@@ -1,0 +1,8 @@
+{
+  // 项目名称：必须与 Cloudflare 控制台里显示的项目名一致
+  "name": "cf-workers-docker-io",
+  // 入口文件：仓库根目录的 _worker.js
+  "main": "_worker.js",
+  // 兼容性日期
+  "compatibility_date": "2026-09-01"
+}
